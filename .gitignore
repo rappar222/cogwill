@@ -1,0 +1,22 @@
+# Build directories & artifacts
+build/
+cmake-build-*/
+_deps/
+Testing/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Runtime user saves, configs & smoke screenshots
+savegame.json
+settings.json
+smoke_*.png
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
